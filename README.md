@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alv4roVN
+- 👋 Hi, I’m Álvaro Vilela, a mathematician and data science professional.
 - 👀 I’m interested in data science and software development.
 - 🌱 I’m currently learning JavaScript.
 - 📫 You can reach me on my LinkedIn, you can find the link on my profile. Although you probably came from there.
