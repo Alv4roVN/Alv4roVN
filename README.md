@@ -1,11 +1,12 @@
 - 👋 Hi, I’m Álvaro Vilela, a mathematician and data science professional.
 - 👀 I’m interested in data science and software development.
-- 🌱 I’m currently learning Java, C++ and some basic Web Design (HTML, CSS).
+- 🌱 I’m currently learning Java, C++ and some basic Web Design.
+- 👾 I'm currently working on a personal website and expanding my portfolio.
 - 📫 You can reach me on my LinkedIn, you can find the link on my profile. Although you probably came from there.
 - ⚡ Fun fact: I play a lot of strategy games in my free time :P
 
 My stack:
-- Programming languages: Python, Fortran, MatLab, GNU Octave, JavaScript, R.
+- Programming languages: Python, Fortran, MatLab, GNU Octave, JavaScript, R, HTML, CSS.
 - IDEs: Jupyter, VS Code, PyCharm, Spyder (and other .ipynb based IDEs).
 - Databases and database management systems: SQL, MongoDB, MySQL.
 - Technologies: Machine Learning algorithms, Neural Networks (CNN, NLP, Time Series Analysis with Neural Networks), Data Mining with Python, Microsoft Azure Databricks, ETL and pipelines.
