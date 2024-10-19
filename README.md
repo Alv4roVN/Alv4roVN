@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Álvaro and I'm a data scientist Spain.</h2>
+<h2 align="left">Hi 👋! My name is Álvaro, a data scientist from Spain.</h2>
 
 ###
 
