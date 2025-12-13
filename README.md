@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 👋 Hi, I’m Álvaro Vilela, a mathematician and data science professional.<br>- 👀 I’m interested in data science and software development.<br>- 🌱 I’m currently learning low-level computer science.<br>- 👾 I'm currently working on a simple memory allocator in C.<br>- 📫 You can reach me on my LinkedIn, you can find the link on my profile.<br>- ⚡ Fun fact: I play a lot of strategy games in my free time :P</p>
+<p align="left">- Mathematician and data science professional.<br>- 👀 I’m interested in data science and software development.<br>- 🌱 I’m currently learning low-level computer science.<br>- 📫 You can reach me on my LinkedIn. Find the link on this profile.<br>- ⚡ Fun fact: I will tell you I use Vim after 5 minutes of meeting you. Or immediately, like right here!</p>
 
 ###
 
