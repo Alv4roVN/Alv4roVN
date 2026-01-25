@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Álvaro, a data scientist from Spain.</h2>
+<h2 align="left">Hi 👋! My name is Álvaro, an ML Engineer from Spain.</h2>
 
 ###
 
-<p align="left">- Mathematician and data science professional.<br>- 👀 I’m interested in data science and software development.<br>- 🌱 I’m currently learning low-level computer science.<br>- 📫 You can reach me on my LinkedIn. Find the link on this profile.<br>- ⚡ Fun fact: I will tell you I use Vim after 5 minutes of meeting you. Or immediately, like right here!</p>
+<p align="left">- Mathematician and ML Engineer.<br>- 👀 I’m interested in data science and software development.<br>- 🌱 I’m currently learning low-level computer science.<br>- 📫 You can reach me on my LinkedIn. Find the link on this profile.<br>- ⚡ Fun fact: I will tell you I use Vim after 5 minutes of meeting you. Or immediately, like right here!</p>
 
 ###
 
